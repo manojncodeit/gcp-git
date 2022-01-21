@@ -1,0 +1,6 @@
+ls -ltr
+ping -c 3 google.com
+ping -c 3 ncodeit.com
+ping -c 3 gitlab.com
+etc/ name *
+
